@@ -205,6 +205,15 @@ export const resources: Resource[] = [
             'Free lifetime account. Simple to learn, quick to master. Design interactive prototypes for Android, iOS, web and desktop in minutes.',
         url: 'https://www.fluidui.com/',
     },
+
+    {
+    name: 'Flyon UI',
+    description:
+        'The Easiest Components Library For Tailwind CSS.',
+    categories: ['Icon', 'Library', 'UI',],
+    url: 'https://flyonui.com/',
+    keywords: ['tailwind', 'ui components', 'ui kits', 'icon', 'docs'], 
+    },
     {
         name: 'Font Awesome',
         categories: ['Icon'],
